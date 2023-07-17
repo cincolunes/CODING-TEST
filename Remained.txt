@@ -1,0 +1,5 @@
+list comprehension
+map()
+f-string (Literal String Interpolation)
+
+list tuple 
